@@ -49,6 +49,8 @@ network and cryptography tools.
 | [vanguard](https://github.com/chrj/vanguard) | Prometheus black-box exporter (HTTP/TCP/SSH/SMTP) that operates over WireGuard |
 | [ircbot](https://github.com/chrj/ircbot) | Asynchronous IRC bot framework for Rust, built on Tokio and proc macros |
 | [dmarc-report-parser](https://github.com/chrj/dmarc-report-parser) | Parse DMARC aggregate feedback reports (Rust library and CLI) |
+| [spamhaus-submission](https://github.com/chrj/rust-spamhaus-submission) | Async Rust client for the Spamhaus Submission Portal API |
+| [abuse-contact](https://github.com/chrj/rust-abuse-contact) | Find where to report abuse for an IP address or a domain name (Rust) |
 | [prometheus-dnssec-exporter](https://github.com/chrj/prometheus-dnssec-exporter) | Monitor DNSSEC and RRSIG expiration |
 | [prometheus-ssl-exporter](https://github.com/chrj/prometheus-ssl-exporter) | Monitor SSL certificate expiration and connectivity |
 
